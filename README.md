@@ -1,4 +1,5 @@
-![image](https://github.com/Ankitpatil9901/Hand-Gesture-Recognition-and-Analysis/assets/96898434/9516a41a-2f1c-40bd-95c9-affb02386a4b)# Hand Gesture Recognition with MediaPipe
+![image](https://github.com/Ankitpatil9901/Hand-Gesture-Recognition-and-Analysis/assets/96898434/9516a41a-2f1c-40bd-95c9-affb02386a4b)
+# Hand Gesture Recognition with MediaPipe
 
 **Abstract**  
 In the realm of computer vision, hand gesture recognition plays a vital role in tasks such as sign language interpretation and enhancing human-computer interaction. This project explores hand gesture analysis, focusing on estimating hand positions and recognizing motions using Python's MediaPipe. Current methods are promising but lack the ability to store learned data points. This project aims to address this limitation by introducing a feature that enables the saving of the training dataset. By enhancing the adaptability and flexibility of hand gesture recognition systems, this approach seeks to advance the field with improved performance and versatility.
